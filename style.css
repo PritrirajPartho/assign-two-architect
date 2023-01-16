@@ -55,23 +55,27 @@ padding: 0;
 }
 /*section-two start */
 .section-two{
-  margin: 60px 50px;
+  margin: 60px 65px;
   display: flex;
 }
 .photo{
     margin-left: 30px;
 }
 .photo img{
+    margin-top: 10px;
+    margin-left: 10px;
     width: 40%;
 }
 .first-details{
-    margin-top: 200px;
+    margin-top: 120px;
 }
 .first-details h1{
     font-size: 50px;
 }
 .first-details p{
-    font-size: xx-large;
+    font-size: x-large;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .orange{
     color: orange;
