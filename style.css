@@ -80,3 +80,69 @@ padding: 0;
 .orange{
     color: orange;
 }
+/*section three start here  */
+.section-three{
+  display: flex;
+  justify-content: center;
+  margin-left: 100px;
+}
+.section-three div img{
+    width: 76%;
+    margin-left: 100px;
+    margin-top: 12px;
+}
+.section-three div p{
+    margin-bottom: 30px;
+    font-size: large;
+}
+.feature-heading{
+    font-size: 40px;
+    border-left: 5px solid orange;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+.box-shadow{
+    margin-top: 25px;
+    padding: 10px 20px;
+    box-shadow: 1px 1px 5px 5px #888888 ;
+    border-radius: 5px;
+}
+.box-shadow h4{
+   font-size: larger;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-bottom: 13px;
+}
+.last-btn{
+    margin-top: 0;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 15px 17px;
+    color:white;
+    display: block;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+}
+.last-btn span{
+    font-size: 30px;
+    color: white;
+}
+/* section four start */
+.section-four{
+
+}
+.parent-of-icon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.showoff-icon{
+  padding: 20px 15px;
+  font-size: larger;
+  border: 2px solid orange;
+}
+.showoff-icon h1, h4{
+    text-align: center;
+}
+.showoff-icon img{
+  margin-left: 26px;
+}
