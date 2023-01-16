@@ -129,20 +129,31 @@ padding: 0;
 }
 /* section four start */
 .section-four{
-
+    margin-top: 50px; 
+    margin-left: 50px;
+}
+.section-four h1, p{
+   font-size: x-large;
+   margin-bottom: 10px;
 }
 .parent-of-icon{
     display: flex;
     justify-content: space-evenly;
 }
 .showoff-icon{
+    height: 100px;
+    width: 120px;
+  margin-top: 50px;
   padding: 20px 15px;
   font-size: larger;
   border: 2px solid orange;
 }
-.showoff-icon h1, h4{
+.showoff-icon h1, h5{
     text-align: center;
+    margin-top: 5px;
+    margin-left: 15px;
 }
 .showoff-icon img{
-  margin-left: 26px;
+  margin-left: 42px;
+
 }
