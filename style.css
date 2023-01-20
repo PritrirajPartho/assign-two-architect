@@ -132,8 +132,11 @@ padding: 0;
     margin-top: 50px; 
     margin-left: 50px;
 }
-.section-four h1, p{
-   font-size: x-large;
+.section-four p{
+  font-size: large;
+}
+.section-four  h1{
+   font-size: 40px;
    margin-bottom: 10px;
 }
 .parent-of-icon{
@@ -141,19 +144,56 @@ padding: 0;
     justify-content: space-evenly;
 }
 .showoff-icon{
-    height: 100px;
+    height: 118px;
     width: 120px;
-  margin-top: 50px;
-  padding: 20px 15px;
-  font-size: larger;
-  border: 2px solid orange;
+    margin-top: 40px;
+    padding: 15px 15px;
+    font-size: larger;
+    border: 2px solid orange;
 }
 .showoff-icon h1, h5{
     text-align: center;
-    margin-top: 5px;
     margin-left: 15px;
 }
 .showoff-icon img{
   margin-left: 42px;
-
+}
+/* section five is here */
+.div-sponsor{
+    margin-top: 50px;
+    text-align: center;
+}
+.div-sponsor h1{
+   font-size: 50px;
+   font-family: 'Courier New', Courier, monospace;
+   margin-bottom: 20px;
+}
+.div-sponsor p{
+    font-size: larger;
+}
+/*five section jjj */
+.sponsor-ico{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+.sponsor-ico img{
+    color:darkgray;
+    margin-right: 80px;
+}
+.main-footer{
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(243, 233, 220);
+    padding: 10px 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+ .main-footer  p{
+  font-size: large;
+  text-align: center;
+  margin-top: 25px;
+  margin-top: 21px;
 }
