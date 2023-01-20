@@ -8,6 +8,7 @@
             background-color: rgb(243, 233, 220);
         }
         .navbar{
+            margin-left: 5px;
            display: flex;
            justify-content: center;
         }
@@ -62,20 +63,20 @@
             display: block;
         }
         .photo img{
-            margin-top: 10px;
+            margin-top: 20px;
             width: 300px;
         }
         .d-block-img{
             display: block;
         }
         .first-details{
-            margin-top: 100px;
+            margin-top: 60px;
         }
         .first-details h1{
-            font-size: 50px;
+            font-size: 30px;
         }
         .first-details p{
-            font-size: x-large;
+            font-size: large;
             margin-top: 20px;
             margin-bottom: 20px;
         }
@@ -85,6 +86,8 @@
         /*section three start here  */
         .section-three{
           display: block;
+          margin-right: 50px;
+          margin-left: 50px;
         }
         .photo-archi-div{
             display: block;
@@ -93,7 +96,7 @@
         }
         .section-three div img{
             width: 400px;
-            height: 500px;
+            height: 450px;
             margin-left: 0;
             margin-right: 100px;
             margin-top: 50px;
@@ -110,7 +113,7 @@
         }
         .box-shadow{
             font-size: small;
-            margin-right: 35px;
+            margin-right: 20px;
             margin-top: 25px;
             padding: 2px 5px;
             box-shadow: 1px 1px 5px 5px #888888 ;
